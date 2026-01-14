@@ -4,7 +4,7 @@ This repository contains my frontend projects built primarily with **Next.js (Ty
 
 --- 
 
-## 🚀 Tech Stack 
+## Tech Stack 
 
 - Next.js
 - React.js
